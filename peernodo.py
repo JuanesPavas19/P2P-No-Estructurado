@@ -189,6 +189,9 @@ class PeerFileService(torrent_pb2_grpc.PeerFileServiceServicer):
         time.sleep(2)  # Simula un retraso en la entrega
         print("Entregando archivo...")
         
+        time.sleep(2)  # Simula un retraso en la entrega
+        print("Archivo Entregado")
+        
         # Aquí deberías implementar la lógica para enviar el archivo real
         return torrent_pb2.UploadFileResponse(status="Success", file_name=file_name)
 
