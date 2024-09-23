@@ -1,0 +1,5 @@
+link gitHub  Juan Jose Velez: https://github.com/jjvelezo/P2P-No-estructurado-st0263
+link gitHub  Juan Esteban Pavas: https://github.com/JuanesPavas19/P2P-No-Estructurado.git
+
+Readme en cada Repositorio
+Link del documento del Reto (Diseño y Link del Video): https://docs.google.com/document/d/1Lu3CI7ZpKs4trfpvzJMKHP8oEy_1W8AJd_qqb8XpeE8/edit?usp=sharing
